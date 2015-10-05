@@ -8,7 +8,9 @@ import android.widget.TextView;
 
 import net.objecthunter.exp4j.Expression;
 import net.objecthunter.exp4j.ExpressionBuilder;
-
+/*
+The code below was not all created by Team Albacheese, a
+* */
 
 public class Calculator extends ActionBarActivity {
     // Create an array of all button IDs
