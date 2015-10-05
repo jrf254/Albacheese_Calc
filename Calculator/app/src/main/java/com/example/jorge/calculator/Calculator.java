@@ -9,7 +9,8 @@ import android.widget.TextView;
 import net.objecthunter.exp4j.Expression;
 import net.objecthunter.exp4j.ExpressionBuilder;
 /*
-The code below was not all created by Team Albacheese, a
+The code below was not all created by Team Albacheese, a tutorial found at http://www.javahelps.com/2015/03/android-simple-calculator.html
+was used to create the functionality. The design was all created by Team Albacheese along with the color scheme.
 * */
 
 public class Calculator extends ActionBarActivity {

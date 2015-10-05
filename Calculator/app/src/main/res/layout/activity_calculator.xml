@@ -20,7 +20,7 @@
             android:maxLength="16"
             android:padding="10dp"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:textSize="13sp"
+            android:textSize="55sp"
             android:layout_weight="1.24" />
 
         <TableLayout
